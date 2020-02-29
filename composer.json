@@ -1,0 +1,13 @@
+{
+    "name": "webtor/platform-sdk-php-example",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Tatarskiy",
+            "email": "pavel.tatarsky@gmail.com"
+        }
+    ],
+    "require": {
+        "webtor/platform-sdk-php": "^0.1.0"
+    }
+}
